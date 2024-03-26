@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/00-init/pom.xml" />
+        <option value="$PROJECT_DIR$/01-arrays/pom.xml" />
+        <option value="$PROJECT_DIR$/02-1-stack/pom.xml" />
+        <option value="$PROJECT_DIR$/02-2-queue/pom.xml" />
+        <option value="$PROJECT_DIR$/04-phonebook/pom.xml" />
+        <option value="$PROJECT_DIR$/06-dailytasks/pom.xml" />
+        <option value="$PROJECT_DIR$/03-binarysearch/pom.xml" />
+        <option value="$PROJECT_DIR$/05-parenthesis-checker/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20_PREVIEW" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
