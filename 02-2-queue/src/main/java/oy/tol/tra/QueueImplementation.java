@@ -6,7 +6,8 @@ public class QueueImplementation<E> implements QueueInterface<E> {
     private static final int init_capacity = 10;
     private Object[] elements;
     private int size;
-
+private int tail;
+private int head;
     public QueueImplementation() {
         this.size = 0;
         this.elements = new Object[init_capacity];
